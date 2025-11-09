@@ -1,4 +1,4 @@
-# Notfollow_forGithub.sh
+# Unfollow_forGithub.sh
 🧹 GitHub Unfollow Assistant
 
 A simple Python tool that helps you find and unfollow users who don’t follow you back on GitHub.
