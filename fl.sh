@@ -6,7 +6,7 @@ Find users you follow who don't follow you back and let you unfollow them.
 Runs in a continuous loop until you choose to quit.
 
 Usage:
-    python3 not_following_back_loop.py
+    python3 fl.sh
 """
 import requests
 import time
