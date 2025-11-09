@@ -52,33 +52,22 @@ ghp_AbC123xyz...
 
 Clone this repository and navigate into it:
 
-git clone https://github.com/<your-username>/github-unfollow-assistant.git
-cd github-unfollow-assistant
+git clone https://github.com/HalilAlb/Unfollow_forGithub.sh
+cd Unfollow_forGithub.sh
 
 
-(Optional) create a virtual environment:
-
-python3 -m venv venv
-source venv/bin/activate  # on macOS/Linux
-venv\Scripts\activate     # on Windows
-
-
-Install dependencies (only requests is required):
-
-pip install requests
-
-🧠 Usage
+🧠 Usage:
 
 Run the script:
 
-python3 not_following_back_loop.py
+python3 fl.sh
 
 
 Then follow the prompts:
 
 GitHub - Unfollow users who don't follow you back (loop mode)
 
-GitHub username: johndoe
+GitHub username:
 Personal Access Token (needs user:follow scope): ghp_AbC123...
 
 ============================================================
