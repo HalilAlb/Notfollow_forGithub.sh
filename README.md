@@ -57,7 +57,7 @@ git clone https://github.com/HalilAlb/Unfollow_forGithub.sh
 cd Unfollow_forGithub.sh
 
 
-🧠 Usage:
+🧠 Usage :
 
 Run the script:
 
